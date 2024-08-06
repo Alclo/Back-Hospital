@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\hospital.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\hospital.csproj",
         "packagesPath": "C:\\Users\\Nathanael\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\obj\\",
+=======
+    "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj",
+        "projectName": "hospital",
+        "projectPath": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj",
+        "packagesPath": "C:\\Users\\OITIC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\obj\\",
+>>>>>>> 66289edbc18442e3fcf200f51bb2194ecdce5672
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

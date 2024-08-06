@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "G9iHXbQdMSejUKXeTqXByuzN/DRZ8uSpxgsZsw4EkDAGSGRYMH8teIHRp4b5MNvk28gGLFLFBwOWwpobTKADlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\hospital.csproj",
+=======
+  "dgSpecHash": "+QfRVss4/O77QxTewcypKmkndRQ66noKTPs0dlaokkhAGqUUHwFd1dNQcbaCYKrgWsoQUjlN6CrDm0iOhLCRjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj",
+>>>>>>> 66289edbc18442e3fcf200f51bb2194ecdce5672
   "expectedPackageFiles": [
     "C:\\Users\\Nathanael\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nathanael\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
