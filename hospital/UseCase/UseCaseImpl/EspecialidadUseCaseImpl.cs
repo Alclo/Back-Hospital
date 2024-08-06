@@ -20,7 +20,7 @@ namespace hospital.UseCase.UseCaseImpl
                 {
                     var pocoEspecialidad = new Especialidad()
                     {
-                        Id = pEspecialidad.Id,
+                        
                         Nombre = pEspecialidad.Nombre,
                     };
 

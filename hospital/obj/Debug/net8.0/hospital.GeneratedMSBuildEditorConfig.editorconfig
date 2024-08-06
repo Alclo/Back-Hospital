@@ -9,19 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = hospital
 build_property.RootNamespace = hospital
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\Nathanael\Desktop\Back-Hospital\hospital\
-=======
 build_property.ProjectDir = C:\Users\OITIC\Downloads\hospital\Back-Hospital\hospital\
->>>>>>> 66289edbc18442e3fcf200f51bb2194ecdce5672
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-<<<<<<< HEAD
-build_property.MSBuildProjectDirectory = C:\Users\Nathanael\Desktop\Back-Hospital\hospital
-=======
 build_property.MSBuildProjectDirectory = C:\Users\OITIC\Downloads\hospital\Back-Hospital\hospital
->>>>>>> 66289edbc18442e3fcf200f51bb2194ecdce5672
 build_property._RazorSourceGeneratorDebug = 

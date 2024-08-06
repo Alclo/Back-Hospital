@@ -95,7 +95,7 @@ namespace hospital.Controllers
         [ProducesResponseType(typeof(EspecialidadDTO), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [HttpPut("actualizaEspecialidad/{pIdEspecialidad}")]
-        public ActionResult<EspecialidadDTO> actualizaEspecialidad(string pIdEspecialidad, EspecialidadDTO pEspecialidad)
+        public ActionResult<EspecialidadDTO> actualizaEspecialidad(int pIdEspecialidad, EspecialidadDTO pEspecialidad)
         {
             if (pEspecialidad.Id.Equals(pIdEspecialidad))
             {
@@ -119,7 +119,7 @@ namespace hospital.Controllers
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [HttpDelete("eliminaEspecialidad/{pIdEspecialidad}")]
 
-        public ActionResult<EspecialidadDTO> eliminaEspecialidad(string pIdEspecialidad, EspecialidadDTO pEspecialidad)
+        public ActionResult<EspecialidadDTO> eliminaEspecialidad(int pIdEspecialidad, EspecialidadDTO pEspecialidad)
         {
             if (pEspecialidad.Id.Equals(pIdEspecialidad))
             {

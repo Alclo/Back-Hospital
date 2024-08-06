@@ -51,7 +51,7 @@ namespace hospital.Controllers
         [ProducesResponseType(typeof(DoctorDTO), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [HttpPut("actualizaBanco/{pIdDoctor}")]
-        public ActionResult<DoctorDTO> actualizaDoctor(string pIdDoctor, DoctorDTO pDoctor)
+        public ActionResult<DoctorDTO> actualizaDoctor(int pIdDoctor, DoctorDTO pDoctor)
         {
             if (pDoctor.Id.Equals(pIdDoctor))
             {
@@ -64,11 +64,8 @@ namespace hospital.Controllers
         [ProducesResponseType(typeof(DoctorDTO), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [HttpDelete("eliminaDoctor/{pIdDoctor}")]
-<<<<<<< HEAD
-=======
 
->>>>>>> 66289edbc18442e3fcf200f51bb2194ecdce5672
-        public ActionResult<DoctorDTO> eliminaDoctor(string pIdDoctor, DoctorDTO pDoctor)
+        public ActionResult<DoctorDTO> eliminaDoctor(int pIdDoctor, DoctorDTO pDoctor)
         {
             if (pDoctor.Id.Equals(pIdDoctor))
             {

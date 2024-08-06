@@ -60,7 +60,7 @@ namespace hospital.UseCase.UseCaseImpl
                     {
                         var pocoCita = new Cita()
                         {
-                            Id = pCita.Id,
+                            
                             DoctorId = pCita.DoctorId,
                             Fecha = pCita.Fecha,
                             PacienteId = pCita.PacienteId,

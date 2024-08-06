@@ -52,7 +52,7 @@ namespace hospital.Controllers
         [ProducesResponseType(typeof(ConsultaDTO), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [HttpPut("actualizaBanco/{pIdConsulta}")]
-        public ActionResult<ConsultaDTO> actualizaConsulta(string pIdConsulta, ConsultaDTO pConsulta)
+        public ActionResult<ConsultaDTO> actualizaConsulta(int pIdConsulta, ConsultaDTO pConsulta)
         {
             if (pConsulta.Id.Equals(pIdConsulta))
             {
@@ -66,7 +66,7 @@ namespace hospital.Controllers
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [HttpDelete("eliminaConsulta/{pIdConsulta}")]
 
-        public ActionResult<ConsultaDTO> eliminaConsulta(string pIdConsulta, ConsultaDTO pConsulta)
+        public ActionResult<ConsultaDTO> eliminaConsulta(int pIdConsulta, ConsultaDTO pConsulta)
         {
             if (pConsulta.Id.Equals(pIdConsulta))
             {

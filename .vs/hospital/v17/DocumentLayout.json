@@ -1,42 +1,50 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\nathanael\\desktop\\back-hospital\\hospital\\usecase\\usecaseimpl\\citausecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\usecase\\usecaseimpl\\citausecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\nathanael\\desktop\\back-hospital\\hospital\\domain\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\domain\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\nathanael\\desktop\\back-hospital\\hospital\\usecase\\usecaseimpl\\consultausecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\usecase\\usecaseimpl\\consultausecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\nathanael\\desktop\\back-hospital\\hospital\\usecase\\usecaseimpl\\doctorusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\usecase\\usecaseimpl\\doctorusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
   "WorkspaceRootPath": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\usecase\\usecaseimpl\\doctorusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\usecase\\usecaseimpl\\doctorusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\usecase\\usecaseimpl\\especialidadusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\usecase\\usecaseimpl\\especialidadusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\dto\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\dto\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\usecase\\usecaseimpl\\consultausecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\usecase\\usecaseimpl\\consultausecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\usecase\\usecaseimpl\\citausecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\usecase\\usecaseimpl\\citausecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\usecase\\usecaseimpl\\doctorusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\usecase\\usecaseimpl\\doctorusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\usecase\\doctorusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\usecase\\doctorusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\controllers\\citacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\controllers\\especialidadcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\controllers\\especialidadcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\domain\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\domain\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|c:\\users\\oitic\\downloads\\hospital\\back-hospital\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F0363D-B9D7-473B-A206-C584E0EC6EB6}|hospital\\hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 66289edbc18442e3fcf200f51bb2194ecdce5672
     }
   ],
   "DocumentGroupContainers": [
@@ -46,22 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DoctorUseCaseImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
-              "RelativeDocumentMoniker": "hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
-              "ToolTip": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
-              "RelativeToolTip": "hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:55:38.207Z",
-=======
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,90 +78,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DoctorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\DTO\\DoctorDTO.cs",
-              "RelativeDocumentMoniker": "hospital\\DTO\\DoctorDTO.cs",
-              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\DTO\\DoctorDTO.cs",
-              "RelativeToolTip": "hospital\\DTO\\DoctorDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:31:45.772Z",
->>>>>>> 66289edbc18442e3fcf200f51bb2194ecdce5672
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-<<<<<<< HEAD
-              "Title": "CitaUseCaseImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\CitaUseCaseImpl.cs",
-              "RelativeDocumentMoniker": "hospital\\UseCase\\UseCaseImpl\\CitaUseCaseImpl.cs",
-              "ToolTip": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\CitaUseCaseImpl.cs",
-              "RelativeToolTip": "hospital\\UseCase\\UseCaseImpl\\CitaUseCaseImpl.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAUwCgAAAAQAAAA",
+              "Title": "EspecialidadUseCaseImpl.cs",
+              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\EspecialidadUseCaseImpl.cs",
+              "RelativeDocumentMoniker": "hospital\\UseCase\\UseCaseImpl\\EspecialidadUseCaseImpl.cs",
+              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\EspecialidadUseCaseImpl.cs",
+              "RelativeToolTip": "hospital\\UseCase\\UseCaseImpl\\EspecialidadUseCaseImpl.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:35:54.115Z",
-=======
-              "Title": "DoctorUseCaseImpl.cs",
-              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
-              "RelativeDocumentMoniker": "hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
-              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
-              "RelativeToolTip": "hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:30:06.291Z",
->>>>>>> 66289edbc18442e3fcf200f51bb2194ecdce5672
+              "WhenOpened": "2024-08-06T21:20:12.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-<<<<<<< HEAD
-              "Title": "ConsultaUseCaseImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\ConsultaUseCaseImpl.cs",
-              "RelativeDocumentMoniker": "hospital\\UseCase\\UseCaseImpl\\ConsultaUseCaseImpl.cs",
-              "ToolTip": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\ConsultaUseCaseImpl.cs",
-              "RelativeToolTip": "hospital\\UseCase\\UseCaseImpl\\ConsultaUseCaseImpl.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAhwHgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:12:34.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HospitalDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\Domain\\HospitalDbContext.cs",
-              "RelativeDocumentMoniker": "hospital\\Domain\\HospitalDbContext.cs",
-              "ToolTip": "C:\\Users\\Nathanael\\Desktop\\Back-Hospital\\hospital\\Domain\\HospitalDbContext.cs",
-              "RelativeToolTip": "hospital\\Domain\\HospitalDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:31:49.568Z",
-              "EditorCaption": ""
-=======
+              "DocumentIndex": 4,
               "Title": "DoctorUseCase.cs",
               "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\DoctorUseCase.cs",
               "RelativeDocumentMoniker": "hospital\\UseCase\\DoctorUseCase.cs",
               "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\DoctorUseCase.cs",
               "RelativeToolTip": "hospital\\UseCase\\DoctorUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:30:01.6Z"
+              "WhenOpened": "2024-08-06T21:17:38.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "ConsultaController.cs",
+              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Controllers\\ConsultaController.cs",
+              "RelativeDocumentMoniker": "hospital\\Controllers\\ConsultaController.cs",
+              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Controllers\\ConsultaController.cs",
+              "RelativeToolTip": "hospital\\Controllers\\ConsultaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:16:46.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CitaController.cs",
+              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Controllers\\CitaController.cs",
+              "RelativeDocumentMoniker": "hospital\\Controllers\\CitaController.cs",
+              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Controllers\\CitaController.cs",
+              "RelativeToolTip": "hospital\\Controllers\\CitaController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:16:08.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EspecialidadControllercs.cs",
+              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Controllers\\EspecialidadControllercs.cs",
+              "RelativeDocumentMoniker": "hospital\\Controllers\\EspecialidadControllercs.cs",
+              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Controllers\\EspecialidadControllercs.cs",
+              "RelativeToolTip": "hospital\\Controllers\\EspecialidadControllercs.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:12:24.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Program.cs",
               "RelativeDocumentMoniker": "hospital\\Program.cs",
               "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Program.cs",
               "RelativeToolTip": "hospital\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:29:40.933Z"
->>>>>>> 66289edbc18442e3fcf200f51bb2194ecdce5672
+              "WhenOpened": "2024-08-06T21:10:18.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "hospital\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "hospital\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwDQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:10:09.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorUseCaseImpl.cs",
+              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
+              "RelativeDocumentMoniker": "hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
+              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
+              "RelativeToolTip": "hospital\\UseCase\\UseCaseImpl\\DoctorUseCaseImpl.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:09:52.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CitaUseCaseImpl.cs",
+              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\CitaUseCaseImpl.cs",
+              "RelativeDocumentMoniker": "hospital\\UseCase\\UseCaseImpl\\CitaUseCaseImpl.cs",
+              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\CitaUseCaseImpl.cs",
+              "RelativeToolTip": "hospital\\UseCase\\UseCaseImpl\\CitaUseCaseImpl.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:09:52.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultaUseCaseImpl.cs",
+              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\ConsultaUseCaseImpl.cs",
+              "RelativeDocumentMoniker": "hospital\\UseCase\\UseCaseImpl\\ConsultaUseCaseImpl.cs",
+              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\UseCase\\UseCaseImpl\\ConsultaUseCaseImpl.cs",
+              "RelativeToolTip": "hospital\\UseCase\\UseCaseImpl\\ConsultaUseCaseImpl.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:09:52.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Domain\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "hospital\\Domain\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\Domain\\HospitalDbContext.cs",
+              "RelativeToolTip": "hospital\\Domain\\HospitalDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:09:52.876Z",
+              "EditorCaption": ""
             }
           ]
         }

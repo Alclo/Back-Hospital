@@ -63,7 +63,7 @@ namespace hospital.UseCase.UseCaseImpl
                             throw new Exception("No se puede agregar esta consulta, debido a que la cita ya esta asiganda a otra consulta");
                         var pocoConsulta = new Consulta()
                         {
-                            Id = pConsulta.Id,
+                            
                             CitaId = pConsulta.CitaId,
                             Diagnostico = pConsulta.Diagnostico,
                             Tratamiento = pConsulta.Tratamiento,

@@ -19,7 +19,7 @@ namespace hospital.UseCase.UseCaseImpl
                 {
                     var pocoDoctor = new Doctor()
                     {
-                        Id = pDoctor.Id,
+                     
                         Nombre = pDoctor.Nombre,
                         Edad = pDoctor.Edad,
                         Curp = pDoctor.Curp,

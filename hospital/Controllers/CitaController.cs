@@ -52,7 +52,7 @@ namespace hospital.Controllers
         [ProducesResponseType(typeof(CitaDTO), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [HttpPut("actualizaBanco/{pIdCita}")]
-        public ActionResult<CitaDTO> actualizaCita(string pIdCita, CitaDTO pCita)
+        public ActionResult<CitaDTO> actualizaCita(int pIdCita, CitaDTO pCita)
         {
             if (pCita.Id.Equals(pIdCita))
             {
@@ -66,7 +66,7 @@ namespace hospital.Controllers
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [HttpDelete("eliminaCita/{pIdCita}")]
 
-        public ActionResult<CitaDTO> eliminaCita(string pIdCita, CitaDTO pCita)
+        public ActionResult<CitaDTO> eliminaCita(int pIdCita, CitaDTO pCita)
         {
             if (pCita.Id.Equals(pIdCita))
             {
