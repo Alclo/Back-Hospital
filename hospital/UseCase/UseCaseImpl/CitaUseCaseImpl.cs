@@ -131,7 +131,7 @@ namespace hospital.UseCase.UseCaseImpl
             }
             catch
             {
-                throw new Exception("No se pudo actualizar la cita"); ;
+                throw new Exception("No se pudo actualizar la cita");
 
             }
         }

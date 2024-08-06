@@ -4523,23 +4523,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OITIC\\.nuget\\packages\\": {},
+    "C:\\Users\\Nathanael\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj",
+      "projectUniqueName": "C:\\Users\\Nathanael\\Documents\\Back-Hospital\\hospital\\hospital.csproj",
       "projectName": "hospital",
-      "projectPath": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj",
-      "packagesPath": "C:\\Users\\OITIC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\obj\\",
+      "projectPath": "C:\\Users\\Nathanael\\Documents\\Back-Hospital\\hospital\\hospital.csproj",
+      "packagesPath": "C:\\Users\\Nathanael\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nathanael\\Documents\\Back-Hospital\\hospital\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\OITIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nathanael\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4548,6 +4548,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4611,16 +4612,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

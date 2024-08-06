@@ -23,15 +23,7 @@ public partial class Paciente
 
     public string Aseguradora { get; set; } = null!;
 
-    public DateOnly FechaRegistro { get; set; }
-
-    public string Patologico { get; set; } = null!;
-
-    public string NoPatologico { get; set; } = null!;
-
-    public string Hereditario { get; set; } = null!;
-
-    public string Responsable { get; set; } = null!;
+    public DateTime FechaRegistro { get; set; }
 
     public virtual ICollection<Cita> Cita { get; set; } = new List<Cita>();
 }

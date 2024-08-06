@@ -32,6 +32,7 @@ namespace hospital.UseCase.UseCaseImpl
 
                     this._context.Doctors.Add(pocoDoctor);
                     this._context.SaveChanges();
+                    pDoctor.Id = pocoDoctor.Id;
                     transaction.Commit();
                     return pDoctor;
                 }
@@ -112,8 +113,7 @@ namespace hospital.UseCase.UseCaseImpl
             {
                 try
                 {
-                    var pocoDoctor = this._context.Doctors.FirstOrDefault(Doctor => Doctor.Id == pDoctor.Id
-                   );
+                    var pocoDoctor = this._context.Doctors.FirstOrDefault(Doctor => Doctor.Id == pDoctor.Id);
                     if (pocoDoctor == null)
                     {
                         transaction.Rollback();
