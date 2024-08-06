@@ -12,6 +12,9 @@ builder.Services.AddDbContext<HospitalDbContext>(opcion => opcion.UseSqlServer(b
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<DoctorUseCase, DoctorUseCaseImpl>();
+builder.Services.AddScoped<CitaUseCase, CitaUseCaseImpl>();
+builder.Services.AddScoped<ConsultaUseCase, ConsultaUseCaseImpl>();
+
 
 var app = builder.Build();
 
