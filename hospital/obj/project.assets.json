@@ -4529,11 +4529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OITIC\\Downloads\\hospital\\hospital\\hospital\\hospital.csproj",
+      "projectUniqueName": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj",
       "projectName": "hospital",
-      "projectPath": "C:\\Users\\OITIC\\Downloads\\hospital\\hospital\\hospital\\hospital.csproj",
+      "projectPath": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj",
       "packagesPath": "C:\\Users\\OITIC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OITIC\\Downloads\\hospital\\hospital\\hospital\\obj\\",
+      "outputPath": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

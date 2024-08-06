@@ -38,11 +38,11 @@ namespace hospital.Controllers
         [ProducesResponseType(typeof(DoctorDTO), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [HttpGet("seleccionaDoctor/{pIdDoctor}")]
-        public ActionResult<DoctorDTO> seleccionaDoctor(string pIdDoctor)
+        public ActionResult<DoctorDTO> seleccionaDoctor(int pIdDoctor)
         {
             var pDoctor = new DoctorDTO();
 
-            pDoctor.Nombre = pIdDoctor;
+            pDoctor.Id = pIdDoctor;
 
             pDoctor = this.doctorUseCase.getByIdDoctor(pDoctor);
             return Ok(pDoctor);
@@ -122,9 +122,9 @@ namespace hospital.Controllers
         /// <returns> Retorna un objeto del tipo DoctorDTO.class </returns>   
         [ProducesResponseType(typeof(DoctorDTO), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
-        [HttpDelete("eliminaBanco/{pIdDoctor}")]
+        [HttpDelete("eliminaDoctor/{pIdDoctor}")]
 
-        public ActionResult<DoctorDTO> eliminaBanco(string pIdDoctor, DoctorDTO pDoctor)
+        public ActionResult<DoctorDTO> eliminaDoctor(string pIdDoctor, DoctorDTO pDoctor)
         {
             if (pDoctor.Id.Equals(pIdDoctor))
             {

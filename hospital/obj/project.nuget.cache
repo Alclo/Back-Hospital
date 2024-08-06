@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LZZAYU+GJzcYjXoRohP/aG3db62mRGO/zK+WQ08PVrJ+9HbBRDZ13F0HjnuZNQOxjRTHE4ixumZ4NK+gbJ8U3A==",
+  "dgSpecHash": "+QfRVss4/O77QxTewcypKmkndRQ66noKTPs0dlaokkhAGqUUHwFd1dNQcbaCYKrgWsoQUjlN6CrDm0iOhLCRjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OITIC\\Downloads\\hospital\\hospital\\hospital\\hospital.csproj",
+  "projectFilePath": "C:\\Users\\OITIC\\Downloads\\hospital\\Back-Hospital\\hospital\\hospital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OITIC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\OITIC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -21,6 +21,13 @@ namespace hospital.UseCase.UseCaseImpl
                     {
                         Id = pDoctor.Id,
                         Nombre = pDoctor.Nombre,
+                        Edad = pDoctor.Edad,
+                        Curp = pDoctor.Curp,
+                        Telefono = pDoctor.Telefono,
+                        Direccion = pDoctor.Direccion,
+                        Cedula = pDoctor.Cedula,
+                        EspecialidadId = pDoctor.EspecialidadId,
+                        HospitalId = pDoctor.HospitalId
                     };
 
                     this._context.Doctors.Add(pocoDoctor);
@@ -117,6 +124,13 @@ namespace hospital.UseCase.UseCaseImpl
                         .Where(Doctor => Doctor.Id == pDoctor.Id)
                         .ExecuteUpdate(setters => setters
                                 .SetProperty(Doctor => Doctor.Nombre, pDoctor.Nombre)
+                                .SetProperty(Doctor => Doctor.Edad, pDoctor.Edad)
+                                .SetProperty(Doctor => Doctor.Curp, pDoctor.Curp)
+                                .SetProperty(Doctor => Doctor.Telefono, pDoctor.Telefono)
+                                .SetProperty(Doctor => Doctor.Direccion, pDoctor.Direccion)
+                                .SetProperty(Doctor => Doctor.Cedula, pDoctor.Cedula)
+                                .SetProperty(Doctor => Doctor.EspecialidadId, pDoctor.EspecialidadId)
+                                .SetProperty(Doctor => Doctor.HospitalId, pDoctor.HospitalId)
                                 );
                     this._context.SaveChanges();
                     transaction.Commit();
@@ -151,7 +165,14 @@ namespace hospital.UseCase.UseCaseImpl
             return query.Select(Doctor => new DoctorDTO()
             {
                 Id = Doctor.Id,
-                Nombre = Doctor.Nombre
+                Nombre = Doctor.Nombre,
+                Edad = Doctor.Edad,
+                Curp = Doctor.Curp,
+                Telefono = Doctor.Telefono,
+                Direccion = Doctor.Direccion,
+                Cedula = Doctor.Cedula,
+                EspecialidadId = Doctor.EspecialidadId,
+                HospitalId = Doctor.HospitalId,
             }).ToList();
         }
     }
